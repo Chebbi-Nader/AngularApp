@@ -1,0 +1,2 @@
+C:\Users\nader\source\repos\AngularApp\AngularApp\obj\Debug\AngularApp.esproj.SuggestedBindingRedirects.cache
+C:\Users\nader\source\repos\AngularApp\AngularApp\obj\Debug\AngularApp.esproj.CoreCompileInputs.cache
